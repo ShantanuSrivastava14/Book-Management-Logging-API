@@ -6,12 +6,9 @@
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
 - [System Design](#system-design)
 - [Features Implemented](#features-implemented)
-- [Known Issues](#known-issues)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
